@@ -1,0 +1,155 @@
+[0], Bahrain, SF21 Torino, 
+Charles Leclerc(6, 8)
+Carlos Sainz(8, 4)
+12, $812500.0
+
+[1], Florence, SF21 Modena, 
+Charles Leclerc(4, 12)
+Carlos Sainz(5, 10)
+22, $1437500.0
+
+[2], Portimao, SF21 Milano, 
+Charles Leclerc(6, 8)
+Carlos Sainz(11, 0)
+8, $1812500.0
+
+[3], Barcelona, SF21 Torino, 
+Charles Leclerc(4, 12)
+Carlos Sainz(7, 6)
+18, $1187500.0
+
+[4], Monaco, SF21 Modena, 
+Charles Leclerc(20, 0)
+Carlos Sainz(2, 18)
+18, $2312500.0
+
+[5], Baku, SF21 Milano, 
+Charles Leclerc(4, 12)
+Carlos Sainz(8, 4)
+16, $1062500.0
+
+[6], France, SF21 Torino, 
+Charles Leclerc(16, 0)
+Carlos Sainz(11, 0)
+0, $2562500.0
+
+[7], Styria, SF21 Modena, 
+Charles Leclerc(7, 6)
+Carlos Sainz(6, 8)
+14, $937500.0
+
+[8], Austria, SF21 Milano, 
+Charles Leclerc(5, 10)
+Carlos Sainz(8, 4)
+14, $937500.0
+
+[9], Silverstone, SF21 Torino, 
+Charles Leclerc(2, 18)
+Carlos Sainz(6, 8)
+26, $1562500.0
+
+[0], Bahrain, SF21 Torino, 
+Charles Leclerc(6, 8)
+Carlos Sainz(8, 4)
+12, $812500.0
+
+[1], Florence, SF21 Modena, 
+Charles Leclerc(4, 12)
+Carlos Sainz(5, 10)
+22, $1437500.0
+
+[2], Portimao, SF21 Milano, 
+Charles Leclerc(6, 8)
+Carlos Sainz(11, 0)
+8, $1812500.0
+
+[3], Barcelona, SF21 Torino, 
+Charles Leclerc(4, 12)
+Carlos Sainz(7, 6)
+18, $1187500.0
+
+[4], Monaco, SF21 Modena, 
+Charles Leclerc(20, 0)
+Carlos Sainz(2, 18)
+18, $2312500.0
+
+[5], Baku, SF21 Milano, 
+Charles Leclerc(4, 12)
+Carlos Sainz(8, 4)
+16, $1062500.0
+
+[6], France, SF21 Torino, 
+Charles Leclerc(16, 0)
+Carlos Sainz(11, 0)
+0, $2562500.0
+
+[7], Styria, SF21 Modena, 
+Charles Leclerc(7, 6)
+Carlos Sainz(6, 8)
+14, $937500.0
+
+[8], Austria, SF21 Milano, 
+Charles Leclerc(5, 10)
+Carlos Sainz(8, 4)
+14, $937500.0
+
+[9], Silverstone, SF21 Torino, 
+Charles Leclerc(2, 18)
+Carlos Sainz(6, 8)
+26, $1562500.0
+
+[0], Bahrain, SF21 Torino, 
+Charles Leclerc(6, 8)
+Carlos Sainz(8, 4)
+12, $812500.0
+
+[1], Florence, SF21 Modena, 
+Charles Leclerc(4, 12)
+Carlos Sainz(5, 10)
+22, $1437500.0
+
+[2], Portimao, SF21 Milano, 
+Charles Leclerc(6, 8)
+Carlos Sainz(11, 0)
+8, $1812500.0
+
+[3], Barcelona, SF21 Torino, 
+Charles Leclerc(4, 12)
+Carlos Sainz(7, 6)
+18, $1187500.0
+
+[4], Monaco, SF21 Modena, 
+Charles Leclerc(20, 0)
+Carlos Sainz(2, 18)
+18, $2312500.0
+
+[5], Baku, SF21 Milano, 
+Charles Leclerc(4, 12)
+Carlos Sainz(8, 4)
+16, $1062500.0
+
+[6], France, SF21 Torino, 
+Charles Leclerc(16, 0)
+Carlos Sainz(11, 0)
+0, $2562500.0
+
+[7], Styria, SF21 Modena, 
+Charles Leclerc(7, 6)
+Carlos Sainz(6, 8)
+14, $937500.0
+
+[8], Austria, SF21 Milano, 
+Charles Leclerc(5, 10)
+Carlos Sainz(8, 4)
+14, $937500.0
+
+[9], Silverstone, SF21 Torino, 
+Charles Leclerc(2, 18)
+Carlos Sainz(6, 8)
+26, $1562500.0
+
+[10], Hungary, SF21 Milano, 
+Charles Leclerc(4, 12)
+Carlos Sainz(5, 10)
+22, $1437500.0
+

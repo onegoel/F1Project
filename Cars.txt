@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0, SF21 Modena, Red, White, Black, SF90 Turbo, 359.7, 752.0, 3760.0
+1, SF21 Milano, Red, White, Black, SF90 Turbo, 343.7, 756.0, 5292.0
+2, SF21 Torino, Red, White, Black, SF90 Turbo, 331.7, 760.0, 4560.0
+0, SF21 Modena, Red, White, Black, SF90 Turbo, 359.7, 752.0, 3760.0
+1, SF21 Milano, Red, White, Black, SF90 Turbo, 343.7, 756.0, 5292.0
+2, SF21 Torino, Red, White, Black, SF90 Turbo, 331.7, 760.0, 4560.0
+0, SF21 Modena, Red, White, Black, SF90 Turbo, 359.7, 752.0, 3760.0
+1, SF21 Milano, Red, White, Black, SF90 Turbo, 343.7, 756.0, 5292.0
+2, SF21 Torino, Red, White, Black, SF90 Turbo, 331.7, 760.0, 4560.0
+0, SF21 Modena, Red, White, Black, SF90 Turbo, 359.7, 752.0, 3760.0
+1, SF21 Milano, Red, White, Black, SF90 Turbo, 343.7, 756.0, 5292.0
+2, SF21 Torino, Red, White, Black, SF90 Turbo, 331.7, 760.0, 4560.0
+0, SF21 Modena, Red, White, Black, SF90 Turbo, 359.7, 752.0, 3760.0
+1, SF21 Milano, Red, White, Black, SF90 Turbo, 343.7, 756.0, 5292.0
+2, SF21 Torino, Red, White, Black, SF90 Turbo, 331.7, 760.0, 4560.0
+3, SF21 Roma, Red, White, Black, SF90 Turbo, 325.7, 759.0, 5313.0
