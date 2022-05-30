@@ -20,7 +20,7 @@ public class TestClass extends Ferrari {
         races[countRace] = new Race(drivers[0], drivers[1], "Austria", cars[1], 5, 8);
         races[countRace] = new Race(drivers[0], drivers[1], "Silverstone", cars[2], 2, 6);
 
-        System.out.println("\n\nThis is JGarage. Created by Aryan Goel & Ayush Malik.");
+        System.out.println("\n\nThis is JGarage. Created by Aryan Goel.");
         System.out.println("Welcome to Scuderia Ferrari Formula One team.\n\n");
         while (true) {
             Scanner sc = new Scanner(System.in);
